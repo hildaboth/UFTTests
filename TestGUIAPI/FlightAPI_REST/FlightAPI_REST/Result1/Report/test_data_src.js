@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\_ft_auto\\Desktop\\TestGUIAPI\\FlightAPI_REST\\FlightAPI_REST\\Result1',namePairs:[]}]};
