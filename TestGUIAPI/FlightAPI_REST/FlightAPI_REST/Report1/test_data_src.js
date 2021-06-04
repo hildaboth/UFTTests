@@ -1,1 +1,0 @@
-﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\_test_sources\\https___github.com_fabiangandila_UFTrepository.git\\TestGUIAPI\\FlightAPI_REST\\FlightAPI_REST',namePairs:[]}]};
