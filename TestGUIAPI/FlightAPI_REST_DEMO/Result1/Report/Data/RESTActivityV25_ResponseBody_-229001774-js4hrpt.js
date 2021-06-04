@@ -1,0 +1,1 @@
+﻿function __get_float_pane_content(){return '&#60;string xmlns=&#34;http://schemas.microsoft.com/2003/10/Serialization/&#34;&#62;This flight does not depart on this date.&#60;/string&#62;';}

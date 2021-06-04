@@ -32,13 +32,13 @@
     <VarName>TestDir</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile />
+    <SystemProfile>C:\Users\_ft_auto\Documents\GitHub\UFTTests\TestGUIAPI\FlightAPI_REST_DEMO</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>TestName</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile />
+    <SystemProfile>FlightAPI_REST_DEMO</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>LocalHostName</VarName>
@@ -86,7 +86,7 @@
     <VarName>CurrentDate</VarName>
     <IsSystem>true</IsSystem>
     <Description />
-    <SystemProfile>6/4/2021 9:55:37 AM</SystemProfile>
+    <SystemProfile>6/4/2021 10:15:33 AM</SystemProfile>
   </Profiles>
   <Profiles>
     <VarName>QcUrl</VarName>

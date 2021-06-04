@@ -1,0 +1,1 @@
+﻿function __get_float_pane_content(){return '&#60;CreatedOrderParams xmlns=&#34;HP.SOAQ.SampleApp&#34; xmlns:i=&#34;http://www.w3.org/2001/XMLSchema-instance&#34;&#62;\r\n  &#60;OrderNumber&#62;87&#60;/OrderNumber&#62;\r\n  &#60;TotalPrice&#62;298&#60;/TotalPrice&#62;\r\n&#60;/CreatedOrderParams&#62;';}
